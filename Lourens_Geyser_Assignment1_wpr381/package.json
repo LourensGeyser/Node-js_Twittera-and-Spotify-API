@@ -1,0 +1,16 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.1.1",
+    "prompt-sync": "^4.2.0",
+    "spotify-web-api-js": "^1.5.2"
+  }
+}
